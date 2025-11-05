@@ -16,7 +16,7 @@ This project showcases how a DevOps engineer can:
 
 ## 🏗️ Architecture Diagram
 
-![[diagram-export-05-11-2025-17_32_10.png]]
+![[Screenshot 2025-11-05 101054.png]]
 
 
 ## 🧩 Kubernetes Resources Used
