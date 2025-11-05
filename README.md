@@ -16,7 +16,7 @@ This project showcases how a DevOps engineer can:
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](https://raw.githubusercontent.com/idavidkhan/3-tier-app-on-k8s-minikube/main/assets/diagram.jpg)
+![Architecture Diagram](https://github.com/idavidkhan/3-tier-app-on-k8s-minikube/blob/main/Assets/diagram.jpg)
 
 
 ## 🧩 Kubernetes Resources Used
@@ -93,7 +93,7 @@ kubectl apply -f ingress.yml
 - Open 127.0.0.1:80
 ### Boom 
 
-![Architecture Diagram](https://raw.githubusercontent.com/idavidkhan/3-tier-app-on-k8s-minikube/main/assets/Screenshot.jpg)
+![Architecture Diagram](https://github.com/idavidkhan/3-tier-app-on-k8s-minikube/blob/main/Assets/Screenshot.jpg)
 
 
 
