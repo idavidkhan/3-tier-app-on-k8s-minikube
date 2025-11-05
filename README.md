@@ -16,8 +16,7 @@ This project showcases how a DevOps engineer can:
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](https://ibb.co/JFm79zN7)
-
+<a href="https://ibb.co/XrYfqN0q"><img src="https://i.ibb.co/XrYfqN0q/Screenshot.jpg" alt="Screenshot" border="0"></a>
 
 ## 🧩 Kubernetes Resources Used
 
@@ -93,7 +92,7 @@ kubectl apply -f ingress.yml
 - Open 127.0.0.1:80
 ### Boom 
 
-![AppRunning](https://ibb.co/SD6sZ1Fv)
+<a href="https://ibb.co/4nZMhcbX"><img src="https://i.ibb.co/4nZMhcbX/diagram.jpg" alt="diagram" border="0"></a>
 
 
 
